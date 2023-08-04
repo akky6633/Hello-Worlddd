@@ -1,0 +1,6 @@
+this is hello world progamming c language 
+#include<stdio.h>
+void main()
+{
+ println(" This is my hello......world/n")
+}
